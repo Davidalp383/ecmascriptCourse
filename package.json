@@ -1,0 +1,16 @@
+{
+  "name": "ecmascriptcourse",
+  "version": "1.0.0",
+  "description": "curso de ecmascript, versiones y relevancia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "versionesJS",
+    "ecmascript",
+    "historiaJS"
+  ],
+  "author": "David Lopez <dalejol383@gmail.com>",
+  "license": "MIT"
+}
