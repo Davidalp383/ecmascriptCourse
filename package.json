@@ -12,5 +12,6 @@
     "historiaJS"
   ],
   "author": "David Lopez <dalejol383@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
